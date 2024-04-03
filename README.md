@@ -77,7 +77,19 @@ assign Bo = ~a & b;
 endmodule
 ```
 **RTL Schematic**
-**HALF ADDER**
+# HALF ADDER
+![image](https://github.com/kishore2109K/HALF_ADDER_SUBTRACTOR/assets/152274619/43fc3107-f7e2-4d8c-942c-93019d88999d)
+
+# HALF SUBTRACTOR
+![image](https://github.com/kishore2109K/HALF_ADDER_SUBTRACTOR/assets/152274619/372e2905-839d-4f86-bdb7-341ffbecdc27)
+
 **Output/TIMING Waveform**
+# HALF ADDER
+![image](https://github.com/kishore2109K/HALF_ADDER_SUBTRACTOR/assets/152274619/a72001f5-92bf-448b-81f8-0805ab41e1c7)
+
+# HALF SUBTRACTOR
+![image](https://github.com/kishore2109K/HALF_ADDER_SUBTRACTOR/assets/152274619/7ca992c6-1b6c-4ecc-bdb4-aaa48df3fd3a)
 
 **Result:**
+It is verified successfully.
+
